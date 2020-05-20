@@ -5,4 +5,4 @@ Projects on Face Detection, Face Recognition, Look-alikes..
 Here I have used HOG (Histogram of Gradients) method to detect faces, this is part of the face_recognition package.
 
 
-### 2.
+### 2. Face Landmarks using face_recognition library.
